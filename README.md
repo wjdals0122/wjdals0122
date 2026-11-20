@@ -1,5 +1,7 @@
 <div align="center">
 
+# 강정민
+
 백엔드, 데이터 파이프라인, AI 에이전트 자동화를 만듭니다.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#기술-스택)
